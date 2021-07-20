@@ -1,0 +1,15 @@
+.imageChoiceBox {
+  height: 20px;
+  width: 20px;
+  margin: 2px;
+}
+
+.selected {
+  border-style: double;
+}
+
+.boxAlign {
+  margin-top: 100px;
+  width: 400px;
+  display: flex;
+}
